@@ -1,0 +1,101 @@
+{
+ "version": 1,
+ "date": "2026-11-19",
+ "no": 1,
+ "generated_at": "2026-11-19T06:30:00+00:00",
+ "categories": {
+  "motivation": {
+   "date": "2026-11-19",
+   "no": 1,
+   "text": "Start before you feel ready. Ready shows up after you begin.",
+   "highlight": "Start before you feel ready",
+   "credit": "",
+   "model": "seed"
+  },
+  "discipline": {
+   "date": "2026-11-19",
+   "no": 1,
+   "text": "Do it tired. Do it scared. Just do it today.",
+   "highlight": "Just do it today",
+   "credit": "",
+   "model": "seed"
+  },
+  "money": {
+   "date": "2026-11-19",
+   "no": 1,
+   "text": "Most wealth is the money you never spent proving something.",
+   "highlight": "never spent proving something",
+   "credit": "",
+   "model": "seed"
+  },
+  "mindset": {
+   "date": "2026-11-19",
+   "no": 1,
+   "text": "A hard day is information, not a verdict.",
+   "highlight": "not a verdict",
+   "credit": "",
+   "model": "seed"
+  },
+  "fact": {
+   "date": "2026-11-19",
+   "no": 1,
+   "text": "An octopus has three hearts and blue blood.",
+   "highlight": "three hearts",
+   "credit": "",
+   "model": "seed"
+  },
+  "books": {
+   "date": "2026-11-19",
+   "no": 1,
+   "text": "Make the good habit easy to start and the bad one annoying to reach.",
+   "highlight": "easy to start",
+   "credit": "Idea from Atomic Habits by James Clear",
+   "model": "seed"
+  },
+  "stoic": {
+   "date": "2026-11-19",
+   "no": 1,
+   "text": "You can't choose what happens today, only what you do with it.",
+   "highlight": "what you do with it",
+   "credit": "After Epictetus",
+   "model": "seed"
+  }
+ },
+ "list": [
+  {
+   "id": "motivation",
+   "name": "Motivation",
+   "blurb": "A push to start the day"
+  },
+  {
+   "id": "discipline",
+   "name": "Discipline",
+   "blurb": "Habits, focus and doing it anyway"
+  },
+  {
+   "id": "money",
+   "name": "Money",
+   "blurb": "Simple money wisdom"
+  },
+  {
+   "id": "mindset",
+   "name": "Mindset",
+   "blurb": "How to think about hard days"
+  },
+  {
+   "id": "fact",
+   "name": "One fact a day",
+   "blurb": "One sentence you didn't know"
+  },
+  {
+   "id": "books",
+   "name": "Book ideas",
+   "blurb": "One idea from a great book"
+  },
+  {
+   "id": "stoic",
+   "name": "Stoic",
+   "blurb": "Old ideas, modern words"
+  }
+ ]
+}

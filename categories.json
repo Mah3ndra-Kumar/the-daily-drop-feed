@@ -1,0 +1,44 @@
+[
+  {
+    "id": "motivation",
+    "name": "Motivation",
+    "blurb": "A push to start the day",
+    "brief": "An original motivational line about effort, starting, and showing up. Plain words, no cliches like 'rise and grind'."
+  },
+  {
+    "id": "discipline",
+    "name": "Discipline",
+    "blurb": "Habits, focus and doing it anyway",
+    "brief": "An original line about discipline, habits, focus or consistency. Concrete, blunt, slightly warm."
+  },
+  {
+    "id": "money",
+    "name": "Money",
+    "blurb": "Simple money wisdom",
+    "brief": "An original line of timeless money wisdom: saving, spending, patience, ownership. No specific investment advice, no tickers, no numbers that could be wrong."
+  },
+  {
+    "id": "mindset",
+    "name": "Mindset",
+    "blurb": "How to think about hard days",
+    "brief": "An original line about mindset: perspective, setbacks, fear, self-talk. Calm and honest, not preachy."
+  },
+  {
+    "id": "fact",
+    "name": "One fact a day",
+    "blurb": "One sentence you didn't know",
+    "brief": "One surprising but well-established fact from science, history, nature or the human body. It must be accurate and widely documented. Avoid exact figures unless they are certain. Write it as one plain sentence, not a question."
+  },
+  {
+    "id": "books",
+    "name": "Book ideas",
+    "blurb": "One idea from a great book",
+    "brief": "One key idea from a well-known non-fiction book, written entirely in your own words. Never quote the book. The credit must be: Idea from <Book title> by <Author>."
+  },
+  {
+    "id": "stoic",
+    "name": "Stoic",
+    "blurb": "Old ideas, modern words",
+    "brief": "One Stoic idea from Seneca, Epictetus or Marcus Aurelius, rewritten in your own modern words. Never quote them directly. The credit must be: After <Name>."
+  }
+]
