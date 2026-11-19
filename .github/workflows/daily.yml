@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "35 18 * * *"   # 00:05 IST every day
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - categories.json
+      - scripts/**
+      - .github/workflows/daily.yml
 
 permissions:
   contents: write
@@ -27,9 +33,12 @@ jobs:
         env:
           TOKENHARBOR_API_KEY: ${{ secrets.TOKENHARBOR_API_KEY }}
           TOKENHARBOR_MODELS: ${{ vars.TOKENHARBOR_MODELS }}
-        run: python scripts/generate.py
+        run: |
+          set -o pipefail
+          python scripts/generate.py 2>&1 | tee feed/v1/last_run.log
 
       - name: Commit
+        if: always()
         run: |
           git config user.name "daily-drop-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
