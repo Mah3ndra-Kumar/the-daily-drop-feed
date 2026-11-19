@@ -1,6 +1,6 @@
 """Generates today's quote for every category and writes feed/v1/today.json.
 
-Runs once a day in GitHub Actions. The TokenHarbor key comes from the
+Runs once a day in GitHub Actions (00:05 IST). The TokenHarbor key comes from the
 TOKENHARBOR_API_KEY secret and is never written to the repo.
 """
 import datetime as dt
