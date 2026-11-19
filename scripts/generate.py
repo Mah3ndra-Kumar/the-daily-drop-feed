@@ -71,7 +71,7 @@ def parse(raw: str) -> dict:
     obj = json.loads(m.group(0))
     text = " ".join(str(obj.get("text", "")).split()).strip().strip('"“”')
     hl = " ".join(str(obj.get("highlight", "")).split()).strip().strip('"“”.,')
-    credit = " ".join(str(obj.get("credit", "")).split()).strip()
+    credit = " ".join(str(obj.get("credit", "")).split()).strip().rstrip(".")
     if not text:
         raise ValueError("empty text")
     if len(text.split()) > MAX_WORDS:
