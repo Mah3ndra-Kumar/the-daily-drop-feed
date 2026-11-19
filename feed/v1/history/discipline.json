@@ -6,5 +6,13 @@
   "highlight": "Just do it today",
   "credit": "",
   "model": "seed"
+ },
+ {
+  "date": "2026-11-19",
+  "no": 1,
+  "text": "Show up on the dull days; that is where the habit gets its spine.",
+  "highlight": "habit gets its spine",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

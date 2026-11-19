@@ -6,5 +6,13 @@
   "highlight": "easy to start",
   "credit": "Idea from Atomic Habits by James Clear",
   "model": "seed"
+ },
+ {
+  "date": "2026-11-19",
+  "no": 1,
+  "text": "You cannot always choose your circumstances, but you can choose your stance toward them.",
+  "highlight": "choose your stance",
+  "credit": "Idea from Man's Search for Meaning by Viktor E. Frankl",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

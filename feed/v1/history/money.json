@@ -6,5 +6,13 @@
   "highlight": "never spent proving something",
   "credit": "",
   "model": "seed"
+ },
+ {
+  "date": "2026-11-19",
+  "no": 1,
+  "text": "Spend less on appearance and more on ownership, patience, and time you control.",
+  "highlight": "time you control",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

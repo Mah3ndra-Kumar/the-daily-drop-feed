@@ -6,5 +6,13 @@
   "highlight": "Start before you feel ready",
   "credit": "",
   "model": "seed"
+ },
+ {
+  "date": "2026-11-19",
+  "no": 1,
+  "text": "Show up for the first ten minutes; the rest has a way of following.",
+  "highlight": "first ten minutes",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

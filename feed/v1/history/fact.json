@@ -6,5 +6,13 @@
   "highlight": "three hearts",
   "credit": "",
   "model": "seed"
+ },
+ {
+  "date": "2026-11-19",
+  "no": 1,
+  "text": "Sharks existed before trees did, and their skeletons are made of cartilage.",
+  "highlight": "before trees did",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

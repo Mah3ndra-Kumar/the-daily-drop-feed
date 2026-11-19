@@ -6,5 +6,13 @@
   "highlight": "what you do with it",
   "credit": "After Epictetus",
   "model": "seed"
+ },
+ {
+  "date": "2026-11-19",
+  "no": 1,
+  "text": "Much of today's heaviness is tomorrow's imagination arriving early.",
+  "highlight": "imagination arriving early",
+  "credit": "After Seneca.",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

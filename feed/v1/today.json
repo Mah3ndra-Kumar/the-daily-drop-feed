@@ -2,63 +2,63 @@
  "version": 1,
  "date": "2026-11-19",
  "no": 1,
- "generated_at": "2026-11-19T07:01:39+00:00",
+ "generated_at": "2026-11-19T07:02:29+00:00",
  "categories": {
   "motivation": {
    "date": "2026-11-19",
    "no": 1,
-   "text": "Start before you feel ready. Ready shows up after you begin.",
-   "highlight": "Start before you feel ready",
+   "text": "Show up for the first ten minutes; the rest has a way of following.",
+   "highlight": "first ten minutes",
    "credit": "",
-   "model": "seed"
+   "model": "deepseek-v4.1-flash:free"
   },
   "discipline": {
    "date": "2026-11-19",
    "no": 1,
-   "text": "Do it tired. Do it scared. Just do it today.",
-   "highlight": "Just do it today",
+   "text": "Show up on the dull days; that is where the habit gets its spine.",
+   "highlight": "habit gets its spine",
    "credit": "",
-   "model": "seed"
+   "model": "deepseek-v4.1-flash:free"
   },
   "money": {
    "date": "2026-11-19",
    "no": 1,
-   "text": "Most wealth is the money you never spent proving something.",
-   "highlight": "never spent proving something",
+   "text": "Spend less on appearance and more on ownership, patience, and time you control.",
+   "highlight": "time you control",
    "credit": "",
-   "model": "seed"
+   "model": "deepseek-v4.1-flash:free"
   },
   "mindset": {
    "date": "2026-11-19",
    "no": 1,
-   "text": "A hard day is information, not a verdict.",
-   "highlight": "not a verdict",
+   "text": "Fear is a loud passenger; you are still the one driving.",
+   "highlight": "still the one driving",
    "credit": "",
-   "model": "seed"
+   "model": "deepseek-v4.1-flash:free"
   },
   "fact": {
    "date": "2026-11-19",
    "no": 1,
-   "text": "An octopus has three hearts and blue blood.",
-   "highlight": "three hearts",
+   "text": "Sharks existed before trees did, and their skeletons are made of cartilage.",
+   "highlight": "before trees did",
    "credit": "",
-   "model": "seed"
+   "model": "deepseek-v4.1-flash:free"
   },
   "books": {
    "date": "2026-11-19",
    "no": 1,
-   "text": "Make the good habit easy to start and the bad one annoying to reach.",
-   "highlight": "easy to start",
-   "credit": "Idea from Atomic Habits by James Clear",
-   "model": "seed"
+   "text": "You cannot always choose your circumstances, but you can choose your stance toward them.",
+   "highlight": "choose your stance",
+   "credit": "Idea from Man's Search for Meaning by Viktor E. Frankl",
+   "model": "deepseek-v4.1-flash:free"
   },
   "stoic": {
    "date": "2026-11-19",
    "no": 1,
-   "text": "You can't choose what happens today, only what you do with it.",
-   "highlight": "what you do with it",
-   "credit": "After Epictetus",
-   "model": "seed"
+   "text": "Much of today's heaviness is tomorrow's imagination arriving early.",
+   "highlight": "imagination arriving early",
+   "credit": "After Seneca.",
+   "model": "deepseek-v4.1-flash:free"
   }
  },
  "list": [
