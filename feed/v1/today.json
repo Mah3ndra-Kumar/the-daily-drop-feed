@@ -1,63 +1,63 @@
 {
  "version": 1,
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "no": 1,
- "generated_at": "2026-11-19T07:02:51+00:00",
+ "generated_at": "2026-11-20T00:52:09+00:00",
  "categories": {
   "motivation": {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "no": 1,
-   "text": "Show up for the first ten minutes; the rest has a way of following.",
-   "highlight": "first ten minutes",
+   "text": "You do not need to feel like it. Begin anyway and let the work change you.",
+   "highlight": "Begin anyway",
    "credit": "",
    "model": "deepseek-v4.1-flash:free"
   },
   "discipline": {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "no": 1,
-   "text": "Show up on the dull days; that is where the habit gets its spine.",
-   "highlight": "habit gets its spine",
+   "text": "Discipline is smaller than you think: one sock, one page, one call.",
+   "highlight": "smaller than you think",
    "credit": "",
    "model": "deepseek-v4.1-flash:free"
   },
   "money": {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "no": 1,
-   "text": "Spend less on appearance and more on ownership, patience, and time you control.",
-   "highlight": "time you control",
+   "text": "Save without display, spend without regret, wait without panic, and own what matters.",
+   "highlight": "own what matters",
    "credit": "",
    "model": "deepseek-v4.1-flash:free"
   },
   "mindset": {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "no": 1,
-   "text": "Fear is a loud passenger; you are still the one driving.",
-   "highlight": "still the one driving",
+   "text": "The setback did not erase the work; it only changed the next step.",
+   "highlight": "changed the next step",
    "credit": "",
    "model": "deepseek-v4.1-flash:free"
   },
   "fact": {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "no": 1,
-   "text": "Sharks existed before trees did, and their skeletons are made of cartilage.",
-   "highlight": "before trees did",
+   "text": "Your bones are constantly broken down and rebuilt throughout your life.",
+   "highlight": "constantly broken down",
    "credit": "",
    "model": "deepseek-v4.1-flash:free"
   },
   "books": {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "no": 1,
-   "text": "You cannot always choose your circumstances, but you can choose your stance toward them.",
-   "highlight": "choose your stance",
-   "credit": "Idea from Man's Search for Meaning by Viktor E. Frankl",
+   "text": "Systems beat goals because they shape daily behavior long after motivation fades.",
+   "highlight": "Systems beat goals",
+   "credit": "Idea from Atomic Habits by James Clear",
    "model": "deepseek-v4.1-flash:free"
   },
   "stoic": {
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "no": 1,
-   "text": "Much of today's heaviness is tomorrow's imagination arriving early.",
-   "highlight": "imagination arriving early",
-   "credit": "After Seneca.",
+   "text": "The obstacle is not in the road; it is the road, if you keep moving.",
+   "highlight": "it is the road",
+   "credit": "After Marcus Aurelius",
    "model": "deepseek-v4.1-flash:free"
   }
  },

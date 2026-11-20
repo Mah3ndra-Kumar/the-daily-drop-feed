@@ -14,5 +14,13 @@
   "highlight": "choose your stance",
   "credit": "Idea from Man's Search for Meaning by Viktor E. Frankl",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-20",
+  "no": 1,
+  "text": "Systems beat goals because they shape daily behavior long after motivation fades.",
+  "highlight": "Systems beat goals",
+  "credit": "Idea from Atomic Habits by James Clear",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

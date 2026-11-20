@@ -14,5 +14,13 @@
   "highlight": "imagination arriving early",
   "credit": "After Seneca.",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-20",
+  "no": 1,
+  "text": "The obstacle is not in the road; it is the road, if you keep moving.",
+  "highlight": "it is the road",
+  "credit": "After Marcus Aurelius",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

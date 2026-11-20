@@ -14,5 +14,13 @@
   "highlight": "habit gets its spine",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-20",
+  "no": 1,
+  "text": "Discipline is smaller than you think: one sock, one page, one call.",
+  "highlight": "smaller than you think",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

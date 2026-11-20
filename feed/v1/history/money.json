@@ -14,5 +14,13 @@
   "highlight": "time you control",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-20",
+  "no": 1,
+  "text": "Save without display, spend without regret, wait without panic, and own what matters.",
+  "highlight": "own what matters",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

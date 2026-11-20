@@ -14,5 +14,13 @@
   "highlight": "first ten minutes",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-20",
+  "no": 1,
+  "text": "You do not need to feel like it. Begin anyway and let the work change you.",
+  "highlight": "Begin anyway",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

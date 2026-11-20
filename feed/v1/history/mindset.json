@@ -14,5 +14,13 @@
   "highlight": "still the one driving",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-20",
+  "no": 1,
+  "text": "The setback did not erase the work; it only changed the next step.",
+  "highlight": "changed the next step",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]
