@@ -30,5 +30,13 @@
   "highlight": "arrive and keep arriving",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-22",
+  "no": 3,
+  "text": "Start with the smallest stone. The wall gets built whether you feel like lifting.",
+  "highlight": "The wall gets built",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

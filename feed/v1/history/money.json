@@ -30,5 +30,13 @@
   "highlight": "leave it alone",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-22",
+  "no": 3,
+  "text": "Save like patience is interest. Spend like ownership is the point.",
+  "highlight": "patience is interest",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

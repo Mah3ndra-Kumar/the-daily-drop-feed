@@ -30,5 +30,13 @@
   "highlight": "over a trillion distinct scents",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-22",
+  "no": 3,
+  "text": "A day on Venus lasts longer than its year.",
+  "highlight": "longer than its year",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

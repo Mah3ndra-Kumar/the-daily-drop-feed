@@ -30,5 +30,13 @@
   "highlight": "keep their word",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-22",
+  "no": 3,
+  "text": "Motivation is a guest. Discipline pays the rent every single month.",
+  "highlight": "Discipline pays the rent",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

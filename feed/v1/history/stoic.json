@@ -30,5 +30,13 @@
   "highlight": "answer to you",
   "credit": "After Epictetus",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-22",
+  "no": 3,
+  "text": "Your mind takes the color of what you keep returning to. Choose the return.",
+  "highlight": "Choose the return",
+  "credit": "After Marcus Aurelius",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

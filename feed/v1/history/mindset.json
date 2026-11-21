@@ -30,5 +30,13 @@
   "highlight": "deserves a microphone",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-22",
+  "no": 3,
+  "text": "You are not behind. You are just taking the next step differently.",
+  "highlight": "not behind",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]
