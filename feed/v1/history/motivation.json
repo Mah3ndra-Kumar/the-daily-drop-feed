@@ -22,5 +22,13 @@
   "highlight": "Begin anyway",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-21",
+  "no": 2,
+  "text": "You can begin tired. The work only asks that you arrive and keep arriving.",
+  "highlight": "arrive and keep arriving",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

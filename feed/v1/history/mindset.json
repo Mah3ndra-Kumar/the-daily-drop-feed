@@ -22,5 +22,13 @@
   "highlight": "changed the next step",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-21",
+  "no": 2,
+  "text": "Not every thought deserves a microphone in my head.",
+  "highlight": "deserves a microphone",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

@@ -22,5 +22,13 @@
   "highlight": "it is the road",
   "credit": "After Marcus Aurelius",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-21",
+  "no": 2,
+  "text": "Some things answer to you. The rest only asks to be carried.",
+  "highlight": "answer to you",
+  "credit": "After Epictetus",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

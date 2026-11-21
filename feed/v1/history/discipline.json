@@ -22,5 +22,13 @@
   "highlight": "smaller than you think",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-21",
+  "no": 2,
+  "text": "Make the bed before your doubts wake up. Small promises keep their word.",
+  "highlight": "keep their word",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

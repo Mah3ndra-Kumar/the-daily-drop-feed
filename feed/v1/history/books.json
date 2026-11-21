@@ -22,5 +22,13 @@
   "highlight": "Systems beat goals",
   "credit": "Idea from Atomic Habits by James Clear",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-21",
+  "no": 2,
+  "text": "The ability to concentrate without distraction is becoming rare, which makes it increasingly valuable.",
+  "highlight": "increasingly valuable",
+  "credit": "Idea from Deep Work by Cal Newport",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]
