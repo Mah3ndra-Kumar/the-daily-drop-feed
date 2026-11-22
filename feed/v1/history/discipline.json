@@ -38,5 +38,13 @@
   "highlight": "Discipline pays the rent",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-23",
+  "no": 4,
+  "text": "Your habits are always watching. Make them proud when nobody else is looking.",
+  "highlight": "always watching",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

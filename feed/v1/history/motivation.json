@@ -38,5 +38,13 @@
   "highlight": "The wall gets built",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-23",
+  "no": 4,
+  "text": "Nothing changes until you move. One small step is enough to begin.",
+  "highlight": "One small step",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

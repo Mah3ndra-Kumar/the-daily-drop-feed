@@ -38,5 +38,13 @@
   "highlight": "longer than its year",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-23",
+  "no": 4,
+  "text": "Some whales can live for over two centuries, carrying harpoons from the 1800s in their blubber.",
+  "highlight": "over two centuries",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

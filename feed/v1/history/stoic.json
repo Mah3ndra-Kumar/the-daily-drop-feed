@@ -38,5 +38,13 @@
   "highlight": "Choose the return",
   "credit": "After Marcus Aurelius",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-23",
+  "no": 4,
+  "text": "We are not short on time; we are careless with the hours we already have.",
+  "highlight": "careless with the hours",
+  "credit": "After Seneca",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

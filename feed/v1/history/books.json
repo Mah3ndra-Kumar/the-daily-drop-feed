@@ -38,5 +38,13 @@
   "highlight": "trained, not a talent",
   "credit": "Idea from Deep Work by Cal Newport",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-23",
+  "no": 4,
+  "text": "Your mind runs on fast intuition and slow reasoning; pause to engage the slower system when stakes rise.",
+  "highlight": "engage the slower system",
+  "credit": "Idea from Thinking, Fast and Slow by Daniel Kahneman",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

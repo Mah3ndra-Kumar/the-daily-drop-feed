@@ -38,5 +38,13 @@
   "highlight": "patience is interest",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-23",
+  "no": 4,
+  "text": "True wealth is built in the quiet moments when you choose patience over applause.",
+  "highlight": "patience over applause",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

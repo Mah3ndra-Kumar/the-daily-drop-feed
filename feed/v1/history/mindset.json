@@ -38,5 +38,13 @@
   "highlight": "not behind",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-23",
+  "no": 4,
+  "text": "My first thought is a draft, not the final version of this day.",
+  "highlight": "not the final version",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]
