@@ -46,5 +46,13 @@
   "highlight": "always watching",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-24",
+  "no": 5,
+  "text": "The work does not care how you feel. Sit down and start anyway.",
+  "highlight": "start anyway",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

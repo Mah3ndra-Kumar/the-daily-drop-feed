@@ -46,5 +46,13 @@
   "highlight": "over two centuries",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-24",
+  "no": 5,
+  "text": "Botanically, bananas are berries, while strawberries are not true berries.",
+  "highlight": "bananas are berries",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

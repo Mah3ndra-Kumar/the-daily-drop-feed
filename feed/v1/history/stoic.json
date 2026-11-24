@@ -46,5 +46,13 @@
   "highlight": "careless with the hours",
   "credit": "After Seneca",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-24",
+  "no": 5,
+  "text": "What unsettles you is not the event itself but the story you attach to it.",
+  "highlight": "the story you attach",
+  "credit": "After Epictetus",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

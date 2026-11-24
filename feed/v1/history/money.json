@@ -46,5 +46,13 @@
   "highlight": "patience over applause",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-24",
+  "no": 5,
+  "text": "Money follows patience, not noise. Spend with purpose, save with silence, own what lasts.",
+  "highlight": "save with silence",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

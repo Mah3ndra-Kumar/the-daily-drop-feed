@@ -46,5 +46,13 @@
   "highlight": "engage the slower system",
   "credit": "Idea from Thinking, Fast and Slow by Daniel Kahneman",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-24",
+  "no": 5,
+  "text": "Large groups cooperate because they believe in the same stories.",
+  "highlight": "in the same stories",
+  "credit": "Idea from Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

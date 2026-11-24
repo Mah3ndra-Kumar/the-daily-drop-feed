@@ -46,5 +46,13 @@
   "highlight": "One small step",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-24",
+  "no": 5,
+  "text": "Put your shoes on before you decide. The decision can catch up on the walk.",
+  "highlight": "before you decide",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

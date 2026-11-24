@@ -46,5 +46,13 @@
   "highlight": "not the final version",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-24",
+  "no": 5,
+  "text": "The mountain does not move for you, but the path changes with each step you take.",
+  "highlight": "path changes with each step",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]
