@@ -54,5 +54,13 @@
   "highlight": "save with silence",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-25",
+  "no": 6,
+  "text": "Patience turns saved money into ownership; hurry turns it into regret.",
+  "highlight": "Patience turns saved money",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

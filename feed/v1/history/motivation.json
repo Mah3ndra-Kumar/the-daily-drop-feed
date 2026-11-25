@@ -54,5 +54,13 @@
   "highlight": "before you decide",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-25",
+  "no": 6,
+  "text": "Do the plain version today. The polished one can wait until you have something to polish.",
+  "highlight": "plain version today",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

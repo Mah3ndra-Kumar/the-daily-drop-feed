@@ -54,5 +54,13 @@
   "highlight": "the story you attach",
   "credit": "After Epictetus",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-25",
+  "no": 6,
+  "text": "Stop debating what a good person looks like. Spend this hour becoming one.",
+  "highlight": "becoming one",
+  "credit": "After Marcus Aurelius",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

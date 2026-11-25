@@ -54,5 +54,13 @@
   "highlight": "start anyway",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-25",
+  "no": 6,
+  "text": "Wash one dish. Write one sentence. The day bends toward the person who begins small.",
+  "highlight": "who begins small",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

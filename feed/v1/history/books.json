@@ -54,5 +54,13 @@
   "highlight": "in the same stories",
   "credit": "Idea from Sapiens: A Brief History of Humankind by Yuval Noah Harari",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-25",
+  "no": 6,
+  "text": "Some things gain from disorder; stress and volatility can make them stronger.",
+  "highlight": "gain from disorder",
+  "credit": "Idea from Antifragile by Nassim Nicholas Taleb",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]
