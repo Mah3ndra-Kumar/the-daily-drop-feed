@@ -62,5 +62,13 @@
   "highlight": "gain from disorder",
   "credit": "Idea from Antifragile by Nassim Nicholas Taleb",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-26",
+  "no": 7,
+  "text": "A growth mindset turns failure into information, not a verdict on your fixed worth.",
+  "highlight": "turns failure into information",
+  "credit": "Idea from Mindset by Carol Dweck",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

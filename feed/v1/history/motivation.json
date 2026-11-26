@@ -62,5 +62,13 @@
   "highlight": "plain version today",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-26",
+  "no": 7,
+  "text": "You do not have to be ready. You have to be present, then begin.",
+  "highlight": "present, then begin",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

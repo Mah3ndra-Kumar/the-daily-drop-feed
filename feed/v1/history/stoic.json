@@ -62,5 +62,13 @@
   "highlight": "becoming one",
   "credit": "After Marcus Aurelius",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-26",
+  "no": 7,
+  "text": "We keep postponing life, as if it will wait until we are ready.",
+  "highlight": "postponing life",
+  "credit": "After Seneca",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

@@ -62,5 +62,13 @@
   "highlight": "still a turn",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-26",
+  "no": 7,
+  "text": "Fear can sit beside me without holding the pen. I still write the next line.",
+  "highlight": "without holding the pen",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

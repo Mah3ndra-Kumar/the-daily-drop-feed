@@ -62,5 +62,13 @@
   "highlight": "who begins small",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-26",
+  "no": 7,
+  "text": "Discipline is just love for tomorrow's you. It shows up in the small, unglamorous minutes.",
+  "highlight": "love for tomorrow's you",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

@@ -62,5 +62,13 @@
   "highlight": "Patience turns saved money",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-26",
+  "no": 7,
+  "text": "Let your savings wait, your spending serve a purpose, and your possessions answer to you.",
+  "highlight": "possessions answer to you",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]
