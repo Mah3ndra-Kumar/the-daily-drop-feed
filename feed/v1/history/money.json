@@ -70,5 +70,13 @@
   "highlight": "possessions answer to you",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-27",
+  "no": 8,
+  "text": "Quiet savings buy the freedom to say no, and ownership is the slow reward.",
+  "highlight": "freedom to say no",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

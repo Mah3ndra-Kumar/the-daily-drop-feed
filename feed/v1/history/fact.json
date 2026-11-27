@@ -70,5 +70,13 @@
   "highlight": "digest itself",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-27",
+  "no": 8,
+  "text": "A photon can take thousands of years to escape the sun's core.",
+  "highlight": "thousands of years",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

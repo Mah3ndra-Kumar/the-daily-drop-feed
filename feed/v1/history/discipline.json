@@ -70,5 +70,13 @@
   "highlight": "love for tomorrow's you",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-27",
+  "no": 8,
+  "text": "Put your shoes by the door. Tomorrow you will not argue with yourself.",
+  "highlight": "shoes by the door",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

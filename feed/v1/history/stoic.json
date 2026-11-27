@@ -70,5 +70,13 @@
   "highlight": "postponing life",
   "credit": "After Seneca",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-27",
+  "no": 8,
+  "text": "Hard days train the mind the way steep hills train the legs. Keep climbing.",
+  "highlight": "Keep climbing",
+  "credit": "After Seneca",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

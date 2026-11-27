@@ -70,5 +70,13 @@
   "highlight": "turns failure into information",
   "credit": "Idea from Mindset by Carol Dweck",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-27",
+  "no": 8,
+  "text": "Treat every product as an experiment; measure what customers do, not what they promise.",
+  "highlight": "measure what customers do",
+  "credit": "Idea from The Lean Startup by Eric Ries",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

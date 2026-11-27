@@ -70,5 +70,13 @@
   "highlight": "present, then begin",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-27",
+  "no": 8,
+  "text": "Start while the room is quiet. Your effort does not need an audience.",
+  "highlight": "does not need",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]
