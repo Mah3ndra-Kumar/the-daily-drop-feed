@@ -78,5 +78,13 @@
   "highlight": "measure what customers do",
   "credit": "Idea from The Lean Startup by Eric Ries",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-28",
+  "no": 9,
+  "text": "We build confidence from what we know and ignore the rare event that changes everything.",
+  "highlight": "rare event",
+  "credit": "Idea from The Black Swan by Nassim Nicholas Taleb",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

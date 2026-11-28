@@ -78,5 +78,13 @@
   "highlight": "sign my permission slip",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-28",
+  "no": 9,
+  "text": "Perspective is a slower voice than panic, and it usually tells the truth.",
+  "highlight": "slower voice",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

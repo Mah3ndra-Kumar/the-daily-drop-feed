@@ -78,5 +78,13 @@
   "highlight": "does not need",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-28",
+  "no": 9,
+  "text": "Effort is not a mood. It is a hand you extend toward the day.",
+  "highlight": "hand you extend",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]

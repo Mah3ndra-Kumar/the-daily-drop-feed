@@ -78,5 +78,13 @@
   "highlight": "freedom to say no",
   "credit": "",
   "model": "deepseek-v4.1-flash:free"
+ },
+ {
+  "date": "2026-11-28",
+  "no": 9,
+  "text": "The money you keep is the money that buys your future freedom.",
+  "highlight": "buys your future freedom",
+  "credit": "",
+  "model": "deepseek-v4.1-flash:free"
  }
 ]
